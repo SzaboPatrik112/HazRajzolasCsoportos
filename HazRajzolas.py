@@ -10,6 +10,8 @@ while i<4:
     t.forward(100)
     t.right(90)
     i+=1
+t.left(270)
+t.forward(100)
 
 #haz teteje
 t.setheading(55)
