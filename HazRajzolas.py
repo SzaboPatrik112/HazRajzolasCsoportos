@@ -14,11 +14,8 @@ t.left(270)
 t.forward(100)
 
 #haz teteje
-t.setheading(55)
+t.setheading(145)
 t.forward(60)
-t.setheading(-55)
+t.setheading(-145)
 t.forward(60)
-
-
-
 t.done()
